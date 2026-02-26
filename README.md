@@ -2,8 +2,6 @@
 
 This repository is a dedicated space for my daily algorithmic problem-solving. It tracks my progress in mastering complex data structures and optimizing code performance, primarily using **Java** and **Python**.
 
-[Image of a flowchart showing a typical problem-solving process: Understand, Plan, Implement, Optimize]
-
 ## Professional Objective
 The goal of this repository is to demonstrate technical rigor and consistency in solving computational problems. By maintaining this daily log, I aim to:
 * **Master Efficiency**: Optimize solutions to achieve best-case Time Complexity ($O(n)$ or $O(\log n)$) and minimal Space Complexity.
