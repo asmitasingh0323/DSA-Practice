@@ -34,3 +34,19 @@ I focus on these key areas essential for backend and distributed systems enginee
 2. **Edge Case Handling**: I explicitly account for nulls, empty inputs, and large-scale data scenarios.
 3. **Iterative Optimization**: I start with a working solution and refactor it until it meets optimal performance benchmarks.
 4. **Complexity Evaluation**: Every solution is reviewed for its Big O performance in both time and space.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0022-generate-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0022-generate-parentheses) |
+<!---LeetCode Topics End-->
