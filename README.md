@@ -45,6 +45,7 @@ I focus on these key areas essential for backend and distributed systems enginee
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0152-maximum-product-subarray](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
@@ -53,6 +54,7 @@ I focus on these key areas essential for backend and distributed systems enginee
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
