@@ -45,8 +45,17 @@ I focus on these key areas essential for backend and distributed systems enginee
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Backtracking
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0022-generate-parentheses) |
+## Array
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0300-longest-increasing-subsequence](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 <!---LeetCode Topics End-->
