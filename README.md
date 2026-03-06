@@ -60,4 +60,16 @@ I focus on these key areas essential for backend and distributed systems enginee
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
