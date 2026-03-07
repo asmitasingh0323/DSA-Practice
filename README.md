@@ -41,6 +41,7 @@ I focus on these key areas essential for backend and distributed systems enginee
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/asmitasingh0323/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -68,8 +69,21 @@ I focus on these key areas essential for backend and distributed systems enginee
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/asmitasingh0323/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/asmitasingh0323/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Combinatorics
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/asmitasingh0323/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/asmitasingh0323/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
