@@ -55,6 +55,7 @@ I focus on these key areas essential for backend and distributed systems enginee
 ## Array
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0048-rotate-image) |
 | [0152-maximum-product-subarray](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0152-maximum-product-subarray) |
 | [0300-longest-increasing-subsequence](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
@@ -69,6 +70,7 @@ I focus on these key areas essential for backend and distributed systems enginee
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0048-rotate-image) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/asmitasingh0323/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Recursion
 |  |
@@ -86,4 +88,8 @@ I focus on these key areas essential for backend and distributed systems enginee
 |  |
 | ------- |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/asmitasingh0323/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
