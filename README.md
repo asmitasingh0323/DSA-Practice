@@ -41,6 +41,7 @@ I focus on these key areas essential for backend and distributed systems enginee
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0022-generate-parentheses) |
+| [0125-valid-palindrome](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0125-valid-palindrome) |
 | [3461-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/asmitasingh0323/DSA-Practice/tree/master/3461-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Dynamic Programming
 |  |
@@ -92,4 +93,8 @@ I focus on these key areas essential for backend and distributed systems enginee
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0048-rotate-image) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
