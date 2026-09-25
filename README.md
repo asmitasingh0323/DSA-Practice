@@ -60,6 +60,7 @@ I focus on these key areas essential for backend and distributed systems enginee
 | [0048-rotate-image](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0152-maximum-product-subarray) |
+| [0200-number-of-islands](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0200-number-of-islands) |
 | [0300-longest-increasing-subsequence](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0300-longest-increasing-subsequence) |
 ## Binary Search
 |  |
@@ -95,8 +96,21 @@ I focus on these key areas essential for backend and distributed systems enginee
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0200-number-of-islands) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0125-valid-palindrome) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0200-number-of-islands) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/asmitasingh0323/DSA-Practice/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
